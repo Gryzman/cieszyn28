@@ -1,2 +1,3 @@
 do drugiego folderu to jest
 dodanie nowego tekstu
+dodanie innego niz w tamtym tekstu
